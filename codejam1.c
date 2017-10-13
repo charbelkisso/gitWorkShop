@@ -42,7 +42,9 @@ int main(){
 					break;
 				}
 				else {
-					fprintf(output,"IMPOSSIBLE!!!!!!!!!!!!!!!!!!!\n");
+
+					fprintf(output,"IMPOSSIBLE!\n");
+
 					break;
 				}
 			}
