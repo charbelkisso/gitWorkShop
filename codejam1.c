@@ -6,7 +6,7 @@ int main(){
 	FILE *input, *output;
 	input=fopen("A-large-practice.in","r");
 	output=fopen("output.txt","w");
-	
+	int myname = 123;
 	fscanf(input,"%d",&n);
 	
 	for(i=1;i<=n;i++){
