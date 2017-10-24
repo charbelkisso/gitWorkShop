@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin-ext');
+body{	
+margin: 0;
+}
+
+
+
+
+header {	
+background: black;
+color:white;
+padding: 8px 0px 6px 40px;
+height: 40px;
+}
+
+header h1 {
+	display: inline;
+font-family: 'Oswald', sans-serif;
+font-weight: 400;
+font-size: 32;
+float: left;
+margin-top: 0px;
+margin-right: 1100px;
+}
+
+nav ul{
+	display: inline;
+	padding: 0px;
+	float: left;
+}
+
+nav	ul li	{
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left: 16px;
+}
+nav ul li a {
+	color: white;
+	text-decoration: none;
+	margin-top: ;
+
+}
+
+#a{
+font-family: 'Montserrat', sans-serif;
+}
+.homered{
+	background-color: red;
+	padding: 30px 10px 11px 10px;
+}
+
+.divider{
+	background-color: red;
+	height: 5px;
+}
+.homeblack:hover {
+	background-color: blue;
+	padding: 30px 10px 11px 10px;
+}
+
+.image1{
+background-image: url(/images/22.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.homea
+{
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	padding: 9% 5% 0% 70%;
+	font-size: 45px;
+	color: red;
+
+}
+
+.homeb
+{
+	font-family: 'Raleway', sans-serif;
+	margin: 2% 0% 0% 70%;
+	font-size: 75px;
+	color: white;
+	background-color: rgb(0, 0, 0, 0.4); 
+	display: inline-block;
+}
+
+
+.titleb {
+	text-align: center;
+font-family: 'Raleway', sans-serif;
+	
+	font-size: 50px;
+	
+}
+
+.img-circle{
+	margin-top: 4%;
+	margin-left: 15%;
+	text-align: center;
+	border-radius: 50%;
+	width: 100px;
+	height:100px;
+}
+
+#content{
+	margin: 0px 200px 0px 200px;
+	font-size: 20px;
+	line-height: 20px;
+	background: white;
+	padding: 20px;
+	clear: both;
+}
+
+#content2
+{
+font-family: 'Oswald', sans-serif;
+margin-left: 40%;
+}
+.clear {
+	clear:both;
+}
+
+#eng
+{
+text-align: center;
+
+}
+
+#footer{
+	margin-top: 20px;
+	border-bottom: 1px #ccc solid;
+	margin-bottom: 5px;
+}
+.imgg{
+padding: 47px 0 0 0;
+text-align: right;
+float:left;
+}
+	
